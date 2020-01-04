@@ -21,7 +21,7 @@
 #### Errors I ran into: 
 
 #### Tech Stack:
-*Vue.js
-*Vue Router
+* Vue.js
+* Vue Router
 
 Created by Emily Lalonde
