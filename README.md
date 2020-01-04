@@ -1,24 +1,29 @@
-# dps-project
+# Denver Public Schools Home Page
 
-## Project setup
-```
-npm install
-```
+#### Objective:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### WireFrame:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+#### Original:
 
-### Lints and fixes files
-```
-npm run lint
-```
+#### Mock Up:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### Accessibility:
+
+#### What I changed:
+
+#### What I learned:
+
+#### Wins:
+
+#### Challenges:
+
+#### Errors I ran into:
+
+*"Uncaught SyntaxError: Unexpected token <". Upon begining the project, I ran into this error after deploying to Github Pages. The error said that it was coming from App.vue but upon further investigation it was really coming from the index.html file. Because this is only my second project in Vue I turned to StackOverflow to find a solution.  
+
+#### Tech Stack:
+*Vue.js
+*Vue Router
+
+Created by Emily Lalonde
